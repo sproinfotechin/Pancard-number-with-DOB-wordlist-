@@ -1,9 +1,13 @@
 
 HOW TO USE
+
+
 sudo apt update
 sudo su
 
 Go To Path where script is Downlaod
+
+
 python paython script for pan Number.py
 
 then check wordlist is saved
