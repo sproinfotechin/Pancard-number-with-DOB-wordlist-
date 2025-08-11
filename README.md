@@ -1,3 +1,16 @@
+
+HOW TO USE
+sudo apt update
+sudo su
+
+Go To Path where script is Downlaod
+python paython script for pan Number.py
+
+then check wordlist is saved
+
+ls
+check file worslist.txt
+
 Define the template
 
 We need a base string long enough to have positions 1–18.
