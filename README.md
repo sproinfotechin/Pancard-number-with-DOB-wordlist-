@@ -1,5 +1,5 @@
 
-HOW TO USE
+# HOW TO USE
 
 
 sudo apt update
@@ -10,23 +10,23 @@ Go To Path where script is Downlaod
 
 python paython script for pan Number.py
 
-then check wordlist is saved
+then check wordlist is saved or Not
 
 ls
 check file worslist.txt
 
-Define the template
+# Define the template
 
 We need a base string long enough to have positions 1–18.
 Example template:
 ?????####?########
 ? = small letter (a–z)
-# = digit (0–9)
+ = digit (0–9)
 Fixed letters/numbers stay as they are.
 if you know some letters and numbers you can add so you wordlist is create shorly.
 
 
-How it works
+# How it works
 
 template defines where letters (?) and numbers (#) go.
 
